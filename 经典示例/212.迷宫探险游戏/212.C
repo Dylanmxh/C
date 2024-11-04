@@ -420,3 +420,4 @@ void makebg(int a, int b)
         }
     }
 }
+//重新提交一次 
